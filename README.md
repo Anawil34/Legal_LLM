@@ -7,6 +7,11 @@
 - Model used llama-3-8b-Instruct-bnb-4bit
 - LlamaFactory to finetune the model with LORA + DPO
 
+## Evaluation
+| Model           | F-Score |
+|------------------|----------|
+| Our Model  | 0.86    |
+
 ## Sample Input and Output
 ![image](https://github.com/user-attachments/assets/bb338a7c-b9dd-4af1-a204-b98f4c26246e)
 ![image](https://github.com/user-attachments/assets/b5b90a1a-7742-4169-b1b6-4fd5bbd62fb3)
