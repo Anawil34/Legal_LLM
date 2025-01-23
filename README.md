@@ -8,7 +8,7 @@
 - LlamaFactory to finetune the model with LORA + DPO
 
 ## Evaluation
-| Model           | F-Score |
+| Model           | F1-Score |
 |------------------|----------|
 | Our Model  | 0.86    |
 
