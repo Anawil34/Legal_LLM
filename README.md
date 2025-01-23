@@ -1,5 +1,5 @@
 # About
-- This is one of my Hackathon in SuperAI Engineer SS4. The goal is to finetune LLM to be able to classify the legal activity whether it is legit or not.
+- This is one of my most challenging Hackathon in SuperAI Engineer SS4. The goal is to finetune LLM to be able to classify the legal activity whether it is legit or not.
 - The data is Thai language, text-based, complex legal activity with many type of legal activites and people that performs said legal act.
 - My team ultilize LLM finetuning techniques to create LLM model that accurately classify legal activaty with f1 score of 0.86 and can give easons for the said classification as well.
 
