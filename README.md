@@ -1,9 +1,11 @@
 # About
 - This is one of my Hackathon in SuperAI Engineer 2024. The goal is to finetune LLM to be able to classify the legal activity whether it is legit or not
-- My team try to use LLM to give both classification and Reasons for that classification
+- The data is Thai language, text-based, legal activity data with many type of legal activites and people that performs said.
+- My team ultilize LLM finetuning technique to give make LLM both accurately classify legal activaty and give Reasons for the said classification
 
 ## Method
-We LlamaFactory to finetune the model with LORA + DPO
+- Model used llama-3-8b-Instruct-bnb-4bit
+- LlamaFactory to finetune the model with LORA + DPO
 
 ## Sample Output
 
